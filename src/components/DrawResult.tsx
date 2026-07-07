@@ -304,7 +304,7 @@ export default function DrawResult() {
   const statsCards = [
     {
       title: "Tickets Purchased",
-      value: drawResultById?.data?.summary.purchasedTickets || 0,
+      value: drawResultById?.data?.summary.purchasedTickets.toFixed(2) || 0,
       icon: "/images/ticketthumb.png",
       valueColor: "text-white",
       border: "border-[#9a4cee]",
@@ -318,7 +318,7 @@ export default function DrawResult() {
     },
     {
       title: "Total Prize Won",
-      value: `${drawResultById?.data?.summary.totalWon} MTHT` || 0,
+      value: `${drawResultById?.data?.summary.totalWon.toFixed(2)} MTHT` || 0,
       icon: "/images/coins.svg",
       valueColor: "text-[#fff]",
       border: "border-[#9a4cee]",
@@ -413,10 +413,11 @@ export default function DrawResult() {
                       </div>
                     </div>
 
-                    <div className="text-center absolute top-1/2 right-[70px] -translate-y-1/2">
+                    <div className="text-center absolute top-1/2 right-[50px] -translate-y-1/2">
                       <p className="text-[13px] max-[410]:text-[9px] text-white leading-1.5">You Won</p>
                       <h5 className="text-[#ffcd38] text-[19px] max-[410]:text-[13px] font-bold">
-                        {drawResultById?.data?.highestPrize?.prizeAmount} MTHT
+                        {drawResultById?.data?.highestPrize?.prizeAmount.toFixed(2)} MTHT
+                       
                       </h5>
                     </div>
                   </div>
@@ -697,7 +698,7 @@ export default function DrawResult() {
                     Total Prize Pool
                   </h4>
                   <p className="text-[#f3c14c] text-[12px]">
-                    {currentDraw?.totalPayout?.toLocaleString("en-IN")} MTHT
+                    {currentDraw?.totalPayout?.toFixed(2)} MTHT
                   </p>
                 </div>
               </div>
