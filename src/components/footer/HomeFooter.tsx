@@ -34,7 +34,7 @@ export default function HomeFooter() {
     {
       icon: "/images/user.svg",
       label: "Profile",
-      link: "user/profile",
+      link: "/user/profile",
     },
   ];
 
