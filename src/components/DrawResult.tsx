@@ -240,6 +240,7 @@ export default function DrawResult() {
       match: item.match,
       numbers: item.winningNumber,
       prize: `$${item.prizeAmount}`,
+        winnercount: `${item.winnerCount}`,
       icon:
         index === 0 ? "/images/jackpot.png" : `/images/prize-${index + 1}.png`,
       won: item.won,
@@ -719,7 +720,7 @@ export default function DrawResult() {
 
             {/* Cards */}
             <div className="space-y-1">
-              {prizeBreakdown.length > 0 ? prizeBreakdown.map((item: { title: string; match: string; numbers: string; prize: string; icon: string; won: boolean }, index: number) => {
+              {prizeBreakdown.length > 0 ? prizeBreakdown.map((item: { title: string; match: string; numbers: string; prize: string; icon: string; won: boolean; winnercount:string }, index: number) => {
                 const style = prizeStyles[index];
                 const isWinner = item.won;
                 return (
@@ -749,15 +750,20 @@ export default function DrawResult() {
                       </div>
                       <p className={`tracking-[3.5px] margin-left text-[11px] ${style.text}`}>
                         {item.numbers}
+                        
                       </p>
                     </div>
-                    <p className={`text-[11px] font-medium ${style.text} relative`}>
+                    <p className={`text-[11px] font-medium ${style.text} relative text-end`}>
                       {isWinner && (
                         <span className="absolute -left-[46px] top-1/2 -translate-y-1/2 text-[6px] uppercase text-[#37f400] border border-[#37f400] rounded-[4px] p-0.75 ">
                           You Won
                         </span>
                       )}
                       {item.prize}
+                      <p className={`text-[8px] -mt-1 text-[#e6ddd3] opacity-80`}>
+                           {item.winnercount} Winners
+                          </p>
+                      
                     </p>
                   </div>
                 );
