@@ -18,7 +18,7 @@ export const getLatestBid = async (): Promise<ActiveBidResponse> => {
 };
 
 export const getDrawresults = async (params: GetAllDrawParams): Promise<PaginatedResponse> => {
-  return HttpService.get("/drawresults", { params, }).then((res) => res.data);
+  return HttpService.get("/drawresults1", { params, }).then((res) => res.data);
 };
 
 
@@ -31,7 +31,7 @@ export const getRecentActivity = async (params: RecentActivityParams): Promise<P
 };
 
 export const getDrawResultById = async (id: string): Promise<any> => {
-  return HttpService.get(`/result/${id}`).then((res) => res.data);
+  return HttpService.get(`/result1/${id}`).then((res) => res.data);
 };
 
 export const getStakingSettings = async (): Promise<GetAPIParams> => {
