@@ -620,7 +620,7 @@ export default function DrawResult() {
 
                     <div className="text-center font-medium absolute top-1/2 right-[65px] max-[410]:right-[45px] -translate-y-1/2">
 {drawResultById?.data?.bid?.bidNo ? <> <p className="text-[8px] text-white">Draw Number</p></>:<><p className="text-[8px] text-white max-w-[100px]">
-  The results will be announced tomorrow at 7:00 PM
+ The results will be announced today at 7:00 PM
 </p>
 </>}
                       
