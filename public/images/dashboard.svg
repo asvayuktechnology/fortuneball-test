@@ -1,0 +1,6 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 27" width="30" height="27">
+	<style>
+		.s0 { fill: none;stroke: #ffc426;stroke-linecap: round;stroke-miterlimit:100;stroke-width: 2.5 } 
+	</style>
+	<path id="Icon akar-dashboard" class="s0" d="m2.26 4.55c0-1.41 1.14-2.55 2.55-2.55h7.65v22.94h-7.65c-1.41 0-2.55-1.14-2.55-2.55zm15.29-2.55h7.65c1.41 0 2.55 1.14 2.55 2.55v6.37h-10.2zm0 14.02h10.2v6.37c0 1.41-1.14 2.55-2.55 2.55h-7.65z"/>
+</svg>

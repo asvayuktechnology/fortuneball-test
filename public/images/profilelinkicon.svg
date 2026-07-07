@@ -1,0 +1,26 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 29" width="100" height="104">
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,29,-28,0,14,0)">
+			<stop offset="0" stop-color="#290657"/>
+			<stop offset="1" stop-color="#14003a"/>
+		</linearGradient>
+		<linearGradient id="g2" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-4.93,14.92,-11.625,-3.841,16.151,7.289)">
+			<stop offset="0" stop-color="#9f37ea"/>
+			<stop offset="1" stop-color="#861bd2"/>
+		</linearGradient>
+		<linearGradient id="g3" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-4.929,14.917,-11.622,-3.84,21.706,2.685)">
+			<stop offset="0" stop-color="#9f37ea"/>
+			<stop offset="1" stop-color="#861bd2"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1);stroke: #3f0c6d;stroke-miterlimit:100;stroke-width: .8 } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: url(#g3) } 
+	</style>
+	<g id="Icon akar-link-chain">
+		<path id="Rectangle 147 copy" fill-rule="evenodd" class="s0" d="m4 0h20c2.21 0 4 1.79 4 4v21c0 2.21-1.79 4-4 4h-20c-2.21 0-4-1.79-4-4v-21c0-2.21 1.79-4 4-4z"/>
+		<path id="Path 148" class="s1" d="m10.55 22.21c-1.14 0-2.21-0.44-3.01-1.25-0.81-0.8-1.25-1.87-1.25-3.01 0-1.13 0.44-2.2 1.25-3.01l2.3-2.3c1.66-1.66 4.36-1.66 6.02 0 0.39 0.39 0.39 1.03 0 1.42-0.39 0.39-1.03 0.39-1.42 0-0.88-0.88-2.31-0.88-3.19 0l-2.3 2.3c-0.42 0.42-0.66 0.99-0.66 1.59 0 0.61 0.24 1.17 0.66 1.6 0.43 0.42 0.99 0.66 1.6 0.66 0.6 0 1.17-0.24 1.59-0.66l1.15-1.15c0.39-0.39 1.03-0.39 1.42 0 0.39 0.39 0.39 1.02 0 1.41l-1.15 1.15c-0.81 0.81-1.88 1.25-3.01 1.25z"/>
+		<path id="Path 149" class="s2" d="m15.15 17.6c-1.09 0-2.18-0.41-3.01-1.24-0.39-0.39-0.39-1.03 0-1.42 0.39-0.39 1.03-0.39 1.42 0 0.88 0.88 2.31 0.88 3.19 0l2.3-2.3c0.88-0.88 0.88-2.31 0-3.19-0.88-0.88-2.31-0.88-3.19 0l-1.15 1.15c-0.39 0.39-1.03 0.39-1.42 0-0.39-0.39-0.39-1.02 0-1.41l1.15-1.15c1.66-1.66 4.36-1.66 6.02 0 1.66 1.66 1.66 4.36 0 6.02l-2.3 2.3c-0.83 0.83-1.92 1.24-3.01 1.24z"/>
+	</g>
+</svg>

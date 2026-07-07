@@ -1,0 +1,18 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 42 35" width="42" height="35">
+	<style>
+		.s0 { fill: none;stroke: #ffc428;stroke-linecap: round;stroke-miterlimit:100;stroke-width: 3 } 
+	</style>
+	<g id="card-transfer-svgrepo-com">
+		<path id="Path 42" fill-rule="evenodd" class="s0" d="m16.7 5.3c-6.22 0-9.33 0-11.27 1.93-1.93 1.94-1.93 5.05-1.93 11.27 0 6.22 0 9.33 1.93 11.27 1.94 1.93 5.05 1.93 11.27 1.93h2.47"/>
+		<path id="Path 42" fill-rule="evenodd" class="s0" d="m23.3 5.3c6.22 0 9.33 0 11.27 1.93 1.75 1.76 1.91 4.48 1.93 9.62"/>
+		<path id="Path 43" fill-rule="evenodd" class="s0" d="m25.77 21.8v9.9"/>
+		<path id="Path 43" fill-rule="evenodd" class="s0" d="m25.77 31.7l3.3-3.3"/>
+		<path id="Path 43" fill-rule="evenodd" class="s0" d="m25.77 31.7l-3.3-3.3"/>
+		<path id="Path 43" fill-rule="evenodd" class="s0" d="m33.2 31.7v-9.9"/>
+		<path id="Path 43" fill-rule="evenodd" class="s0" d="m33.2 21.8l3.3 3.3"/>
+		<path id="Path 43" fill-rule="evenodd" class="s0" d="m33.2 21.8l-3.3 3.3"/>
+		<path id="Path 44" fill-rule="evenodd" class="s0" d="m16.7 25.1h-6.6"/>
+		<path id="Path 45" fill-rule="evenodd" class="s0" d="m3.5 15.2h8.25"/>
+		<path id="Path 45" fill-rule="evenodd" class="s0" d="m36.5 15.2h-18.15"/>
+	</g>
+</svg>

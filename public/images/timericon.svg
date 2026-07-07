@@ -1,0 +1,6 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19 23" width="150" height="182">
+	<style>
+		.s0 { fill: #ffffff } 
+	</style>
+	<path id="Icon material-timer" fill-rule="evenodd" class="s0" d="m6.28 0.6h6.19v2.07h-6.19zm11.46 16.41c-1.55 3.21-4.8 5.26-8.37 5.25-5.14 0-9.28-4.15-9.28-9.28 0-5.13 4.15-9.29 9.28-9.29 2.11 0 4.16 0.72 5.8 2.05l1.47-1.47q0.78 0.66 1.45 1.45l-1.47 1.47c2.23 2.79 2.67 6.6 1.12 9.82zm-7.34-9.19h-2.06v6.19h2.06z"/>
+</svg>

@@ -1,0 +1,26 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 29" width="100" height="104">
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,25.571,-24.689,0,14,1.714)">
+			<stop offset="0" stop-color="#290657"/>
+			<stop offset="1" stop-color="#14003a"/>
+		</linearGradient>
+		<linearGradient id="g2" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,12.345,-12.679,0,14.476,7.446)">
+			<stop offset="0" stop-color="#a038eb"/>
+			<stop offset="1" stop-color="#861bd2"/>
+		</linearGradient>
+		<linearGradient id="g3" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,5.529,-7.04,0,17.99,10.853)">
+			<stop offset="0" stop-color="#a038eb"/>
+			<stop offset="1" stop-color="#861bd2"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1);stroke: #3f0c6d;stroke-miterlimit:100;stroke-width: .8 } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: url(#g3) } 
+	</style>
+	<g id="Icon ion-md-wallet">
+		<path id="Rectangle 145 copy" fill-rule="evenodd" class="s0" d="m5.18 1.71h17.64c1.95 0 3.52 1.58 3.52 3.53v18.52c0 1.95-1.57 3.53-3.52 3.53h-17.64c-1.95 0-3.52-1.58-3.52-3.53v-18.52c0-1.95 1.57-3.53 3.52-3.53z"/>
+		<path id="Path 146" class="s1" d="m13.11 16.36v-5.48c0-0.76 0.61-1.38 1.37-1.38h6.34v-0.68c0-0.76-0.61-1.37-1.36-1.37h-9.91c-0.76 0-1.41 0.59-1.41 1.35v9.64c0 0.76 0.65 1.35 1.41 1.35h9.9c0.76 0 1.36-0.62 1.36-1.37v-0.69h-6.33c-0.76 0-1.37-0.61-1.37-1.37z"/>
+		<path id="Path 147" fill-rule="evenodd" class="s2" d="m14.98 10.85h6.02c0.28 0 0.51 0.23 0.51 0.52v4.5c0 0.28-0.23 0.51-0.51 0.51h-6.02c-0.28 0-0.51-0.23-0.51-0.51v-4.5c0-0.29 0.23-0.52 0.51-0.52zm2.93 2.77c0-0.57-0.46-1.03-1.03-1.03-0.57 0-1.03 0.46-1.03 1.03 0 0.57 0.46 1.03 1.03 1.03 0.57 0 1.03-0.46 1.03-1.03z"/>
+	</g>
+</svg>

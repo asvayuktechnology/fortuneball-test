@@ -1,0 +1,12 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 296 49" width="296" height="49">
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(14.926,142.01,-541.801,56.946,127.59,-92.297)">
+			<stop offset="0" stop-color="#ce8908"/>
+			<stop offset="1" stop-color="#553002"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1);stroke: #cda029;stroke-miterlimit:100;stroke-width: .5 } 
+	</style>
+	<path id="Rectangle 97" fill-rule="evenodd" class="s0" d="m4.63-0.59h286.74c4.53 0 8.19 3.67 8.19 8.19v33.8c0 4.52-3.66 8.19-8.19 8.19h-286.74c-4.53 0-8.19-3.67-8.19-8.19v-33.8c0-4.52 3.66-8.19 8.19-8.19z"/>
+</svg>

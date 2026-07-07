@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 34" width="40" height="34">
+	<style>
+		.s0 { fill: none;stroke: #ffc426;stroke-linecap: round;stroke-miterlimit:100;stroke-width: 3 } 
+	</style>
+	<g id="Icon feather-users">
+		<path id="Path 21" fill-rule="evenodd" class="s0" d="m24.59 27v-2.64c0-2.91-2.36-5.27-5.27-5.27h-10.55c-2.91 0-5.27 2.36-5.27 5.27v2.64"/>
+		<path id="Path 22" class="s0" d="m19.32 8.55c0 2.91-2.36 5.27-5.27 5.27-2.92 0-5.28-2.36-5.28-5.27 0-2.92 2.36-5.28 5.28-5.28 2.91 0 5.27 2.36 5.27 5.28z"/>
+		<path id="Path 23" fill-rule="evenodd" class="s0" d="m32.5 27v-2.64c0-2.4-1.63-4.5-3.95-5.1"/>
+		<path id="Path 23" fill-rule="evenodd" class="s0" d="m23.27 3.44c2.34 0.6 3.97 2.7 3.97 5.11 0 2.41-1.63 4.51-3.97 5.11"/>
+	</g>
+</svg>

@@ -1,0 +1,18 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 42 43" width="100" height="102">
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(6.988,43,-42.173,6.854,14.012,0)">
+			<stop offset="0" stop-color="#491780"/>
+			<stop offset="1" stop-color="#14003a"/>
+		</linearGradient>
+		<linearGradient id="g2" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,18.8,-23.5,0,22.1,12)">
+			<stop offset="0" stop-color="#b25ff7"/>
+			<stop offset="1" stop-color="#6302b3"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1);stroke: #5a138a;stroke-miterlimit:100;stroke-width: .8 } 
+		.s1 { fill: url(#g2) } 
+	</style>
+	<path id="Rectangle 149 copy" fill-rule="evenodd" class="s0" d="m21 0c11.6 0 21 9.4 21 21v1c0 11.6-9.4 21-21 21-11.6 0-21-9.4-21-21v-1c0-11.6 9.4-21 21-21z"/>
+	<path id="Icon fa-solid-users" class="s1" d="m15.64 12c1.62 0 2.93 1.32 2.93 2.94 0 1.62-1.31 2.93-2.93 2.93-1.62 0-2.94-1.31-2.94-2.93 0-1.62 1.32-2.94 2.94-2.94zm13.51 0c1.62 0 2.94 1.32 2.94 2.94 0 1.62-1.32 2.93-2.94 2.93-1.62 0-2.94-1.31-2.94-2.93 0-1.62 1.32-2.94 2.94-2.94zm-18.8 10.97c0-2.16 1.75-3.92 3.92-3.92h1.57q0.88 0.01 1.63 0.36-0.07 0.39-0.07 0.81c0 1.41 0.62 2.67 1.59 3.53h-7.86c-0.43 0-0.78-0.35-0.78-0.78zm14.88 0.78h-0.02c0.97-0.86 1.59-2.12 1.59-3.53q-0.01-0.41-0.07-0.81 0.75-0.36 1.63-0.36h1.57c2.16 0 3.92 1.76 3.92 3.92 0 0.43-0.35 0.78-0.78 0.78zm-6.66-3.53c0-1.94 1.58-3.52 3.53-3.52 1.94 0 3.52 1.58 3.52 3.52 0 1.95-1.58 3.53-3.52 3.53-1.95 0-3.53-1.58-3.53-3.53zm-3.52 9.6c0-2.7 2.19-4.9 4.89-4.9h4.31c2.7 0 4.9 2.2 4.9 4.9 0 0.54-0.44 0.98-0.98 0.98h-12.14c-0.54 0-0.98-0.44-0.98-0.98z"/>
+</svg>

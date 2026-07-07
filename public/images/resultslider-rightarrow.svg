@@ -1,0 +1,12 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 27 27" width="100" height="100">
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,25,-25,0,13.5,1)">
+			<stop offset="0" stop-color="#4400a2"/>
+			<stop offset="1" stop-color="#2c0069"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1);stroke: #320463;stroke-miterlimit:100;stroke-width: .1 } 
+	</style>
+	<path id="Icon fa-solid-circle-arrow-right copy" fill-rule="evenodd" class="s0" d="m13.5 1c6.9 0 12.5 5.6 12.5 12.5 0 6.9-5.6 12.5-12.5 12.5-6.9 0-12.5-5.6-12.5-12.5 0-6.9 5.6-12.5 12.5-12.5zm6.69 13.33c0.46-0.46 0.46-1.2 0-1.66l-5.47-5.46c-0.45-0.46-1.2-0.46-1.65 0-0.46 0.45-0.46 1.19 0 1.65l3.46 3.47h-8.89c-0.65 0-1.17 0.52-1.17 1.17 0 0.65 0.52 1.17 1.17 1.17l8.89 0.01-3.46 3.46c-0.46 0.46-0.46 1.2 0 1.66 0.45 0.46 1.19 0.46 1.65 0z"/>
+</svg>
